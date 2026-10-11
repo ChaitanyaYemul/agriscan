@@ -1,0 +1,18 @@
+
+{
+  "Pepper__bell___Bacterial_spot": "bell_pepper___bacterial_spot",
+  "Pepper__bell___healthy": "bell_pepper___healthy",
+  "Potato___Early_blight": "potato___early_blight",
+  "Potato___healthy": "potato___healthy",
+  "Potato___Late_blight": "potato___late_blight",
+  "Tomato__Target_Spot": "tomato___target_spot",
+  "Tomato__Tomato_mosaic_virus": "tomato___tomato_mosaic_virus",
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": "tomato___tomato_yellow_leaf_curl_virus",
+  "Tomato_Bacterial_spot": "tomato___bacterial_spot",
+  "Tomato_Early_blight": "tomato___early_blight",
+  "Tomato_healthy": "tomato___healthy",
+  "Tomato_Late_blight": "tomato___late_blight",
+  "Tomato_Leaf_Mold": "tomato___leaf_mold",
+  "Tomato_Septoria_leaf_spot": "tomato___septoria_leaf_spot",
+  "Tomato_Spider_mites_Two_spotted_spider_mite": "tomato___spider_mites_two_spotted_spider_mite"
+}

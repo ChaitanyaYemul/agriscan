@@ -1,0 +1,18 @@
+
+[
+  "bell_pepper___bacterial_spot",
+  "bell_pepper___healthy",
+  "potato___early_blight",
+  "potato___healthy",
+  "potato___late_blight",
+  "tomato___bacterial_spot",
+  "tomato___early_blight",
+  "tomato___healthy",
+  "tomato___late_blight",
+  "tomato___leaf_mold",
+  "tomato___septoria_leaf_spot",
+  "tomato___spider_mites_two_spotted_spider_mite",
+  "tomato___target_spot",
+  "tomato___tomato_mosaic_virus",
+  "tomato___tomato_yellow_leaf_curl_virus"
+]
